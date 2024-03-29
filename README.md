@@ -9,9 +9,9 @@ This project is a Tetris game implemented in Python using the Pygame library. It
 - Use the 'A' key to rotate the tetromino 270 degrees clockwise.
 
 ## Features:
-◯ Random selection of tetrominos for gameplay.
-◯ Continuously falling tetrominos.
-◯ Removal of full lines when a line is completely filled.
-◯ Score tracking.
-◯ Game over detection.
-◯ Display of the next tetromino to be played.
+- Random selection of tetrominos for gameplay.
+- Continuously falling tetrominos.
+- Removal of full lines when a line is completely filled.
+- Score tracking.
+- Game over detection.
+- Display of the next tetromino to be played.
