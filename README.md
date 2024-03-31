@@ -1,6 +1,6 @@
 # Tetris Game with Pygame
 
-This project is a Tetris game implemented in Python using the Pygame library. It includes a parent tetromino class and five subclasses for each Tetris figure. To play the game, run main.py.
+This project is a Tetris game implemented in Python using the Pygame library. It includes a parent tetromino class and five subclasses for each Tetris figure. To play the game, run play.py.
 
 ## Instructions:
 - Use the left, right, and down arrow keys to move the tetromino left, right, and down respectively.
